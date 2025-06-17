@@ -5,7 +5,7 @@
 //                  check whether that charecter is vowel
 //                  (a,e,i,o,u) or not..
 //  Author :        Bharat Sanjay patil
-//  Date :          16/06/2025
+//  Date :          17/06/2025
 //
 ///////////////////////////////////////////////////////
 
