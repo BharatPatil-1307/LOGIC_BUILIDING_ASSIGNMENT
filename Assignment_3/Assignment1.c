@@ -4,7 +4,7 @@
 //  Descreption :   Write a program which accept one number from user
 //                  and print that number of even number on srceen
 //  Author :        Bharat Sanjay patil
-//  Date :          16/06/2025
+//  Date :          17/06/2025
 //
 ///////////////////////////////////////////////////////
 
